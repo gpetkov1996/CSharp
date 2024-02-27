@@ -1,0 +1,15 @@
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Smallest of Three Numbers/Smallest_Of_Three_Number/bin/Debug/net5.0/Smallest_Of_Three_Number.deps.json
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Smallest of Three Numbers/Smallest_Of_Three_Number/bin/Debug/net5.0/Smallest_Of_Three_Number.runtimeconfig.json
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Smallest of Three Numbers/Smallest_Of_Three_Number/bin/Debug/net5.0/Smallest_Of_Three_Number.runtimeconfig.dev.json
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Smallest of Three Numbers/Smallest_Of_Three_Number/bin/Debug/net5.0/Smallest_Of_Three_Number.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Smallest of Three Numbers/Smallest_Of_Three_Number/bin/Debug/net5.0/ref/Smallest_Of_Three_Number.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Smallest of Three Numbers/Smallest_Of_Three_Number/bin/Debug/net5.0/Smallest_Of_Three_Number.pdb
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Smallest of Three Numbers/Smallest_Of_Three_Number/obj/Debug/net5.0/Smallest_Of_Three_Number.csproj.AssemblyReference.cache
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Smallest of Three Numbers/Smallest_Of_Three_Number/obj/Debug/net5.0/Smallest_Of_Three_Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Smallest of Three Numbers/Smallest_Of_Three_Number/obj/Debug/net5.0/Smallest_Of_Three_Number.AssemblyInfoInputs.cache
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Smallest of Three Numbers/Smallest_Of_Three_Number/obj/Debug/net5.0/Smallest_Of_Three_Number.AssemblyInfo.cs
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Smallest of Three Numbers/Smallest_Of_Three_Number/obj/Debug/net5.0/Smallest_Of_Three_Number.csproj.CoreCompileInputs.cache
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Smallest of Three Numbers/Smallest_Of_Three_Number/obj/Debug/net5.0/Smallest_Of_Three_Number.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Smallest of Three Numbers/Smallest_Of_Three_Number/obj/Debug/net5.0/ref/Smallest_Of_Three_Number.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Smallest of Three Numbers/Smallest_Of_Three_Number/obj/Debug/net5.0/Smallest_Of_Three_Number.pdb
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Smallest of Three Numbers/Smallest_Of_Three_Number/obj/Debug/net5.0/Smallest_Of_Three_Number.genruntimeconfig.cache

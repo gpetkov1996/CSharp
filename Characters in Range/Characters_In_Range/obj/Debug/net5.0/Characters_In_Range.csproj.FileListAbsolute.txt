@@ -1,0 +1,15 @@
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Characters in Range/Characters_In_Range/bin/Debug/net5.0/Characters_In_Range.deps.json
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Characters in Range/Characters_In_Range/bin/Debug/net5.0/Characters_In_Range.runtimeconfig.json
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Characters in Range/Characters_In_Range/bin/Debug/net5.0/Characters_In_Range.runtimeconfig.dev.json
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Characters in Range/Characters_In_Range/bin/Debug/net5.0/Characters_In_Range.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Characters in Range/Characters_In_Range/bin/Debug/net5.0/ref/Characters_In_Range.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Characters in Range/Characters_In_Range/bin/Debug/net5.0/Characters_In_Range.pdb
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Characters in Range/Characters_In_Range/obj/Debug/net5.0/Characters_In_Range.csproj.AssemblyReference.cache
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Characters in Range/Characters_In_Range/obj/Debug/net5.0/Characters_In_Range.GeneratedMSBuildEditorConfig.editorconfig
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Characters in Range/Characters_In_Range/obj/Debug/net5.0/Characters_In_Range.AssemblyInfoInputs.cache
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Characters in Range/Characters_In_Range/obj/Debug/net5.0/Characters_In_Range.AssemblyInfo.cs
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Characters in Range/Characters_In_Range/obj/Debug/net5.0/Characters_In_Range.csproj.CoreCompileInputs.cache
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Characters in Range/Characters_In_Range/obj/Debug/net5.0/Characters_In_Range.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Characters in Range/Characters_In_Range/obj/Debug/net5.0/ref/Characters_In_Range.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Characters in Range/Characters_In_Range/obj/Debug/net5.0/Characters_In_Range.pdb
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Methods - Exercise/Characters in Range/Characters_In_Range/obj/Debug/net5.0/Characters_In_Range.genruntimeconfig.cache
