@@ -1,0 +1,15 @@
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Login/Login/bin/Debug/net5.0/Login.deps.json
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Login/Login/bin/Debug/net5.0/Login.runtimeconfig.json
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Login/Login/bin/Debug/net5.0/Login.runtimeconfig.dev.json
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Login/Login/bin/Debug/net5.0/Login.dll
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Login/Login/bin/Debug/net5.0/ref/Login.dll
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Login/Login/bin/Debug/net5.0/Login.pdb
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Login/Login/obj/Debug/net5.0/Login.csproj.AssemblyReference.cache
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Login/Login/obj/Debug/net5.0/Login.GeneratedMSBuildEditorConfig.editorconfig
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Login/Login/obj/Debug/net5.0/Login.AssemblyInfoInputs.cache
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Login/Login/obj/Debug/net5.0/Login.AssemblyInfo.cs
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Login/Login/obj/Debug/net5.0/Login.csproj.CoreCompileInputs.cache
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Login/Login/obj/Debug/net5.0/Login.dll
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Login/Login/obj/Debug/net5.0/ref/Login.dll
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Login/Login/obj/Debug/net5.0/Login.pdb
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Login/Login/obj/Debug/net5.0/Login.genruntimeconfig.cache

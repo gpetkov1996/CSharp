@@ -1,0 +1,15 @@
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Orders/Orders/bin/Debug/net5.0/Orders.deps.json
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Orders/Orders/bin/Debug/net5.0/Orders.runtimeconfig.json
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Orders/Orders/bin/Debug/net5.0/Orders.runtimeconfig.dev.json
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Orders/Orders/bin/Debug/net5.0/Orders.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Orders/Orders/bin/Debug/net5.0/ref/Orders.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Orders/Orders/bin/Debug/net5.0/Orders.pdb
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Orders/Orders/obj/Debug/net5.0/Orders.csproj.AssemblyReference.cache
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Orders/Orders/obj/Debug/net5.0/Orders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Orders/Orders/obj/Debug/net5.0/Orders.AssemblyInfoInputs.cache
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Orders/Orders/obj/Debug/net5.0/Orders.AssemblyInfo.cs
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Orders/Orders/obj/Debug/net5.0/Orders.csproj.CoreCompileInputs.cache
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Orders/Orders/obj/Debug/net5.0/Orders.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Orders/Orders/obj/Debug/net5.0/ref/Orders.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Orders/Orders/obj/Debug/net5.0/Orders.pdb
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Orders/Orders/obj/Debug/net5.0/Orders.genruntimeconfig.cache
