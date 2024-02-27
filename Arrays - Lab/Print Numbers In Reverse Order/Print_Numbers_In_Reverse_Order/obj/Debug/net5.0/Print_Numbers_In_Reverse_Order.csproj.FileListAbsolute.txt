@@ -1,0 +1,15 @@
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Arrays - Lab/Print Numbers In Reverse Order/Print_Numbers_In_Reverse_Order/bin/Debug/net5.0/Print_Numbers_In_Reverse_Order.deps.json
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Arrays - Lab/Print Numbers In Reverse Order/Print_Numbers_In_Reverse_Order/bin/Debug/net5.0/Print_Numbers_In_Reverse_Order.runtimeconfig.json
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Arrays - Lab/Print Numbers In Reverse Order/Print_Numbers_In_Reverse_Order/bin/Debug/net5.0/Print_Numbers_In_Reverse_Order.runtimeconfig.dev.json
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Arrays - Lab/Print Numbers In Reverse Order/Print_Numbers_In_Reverse_Order/bin/Debug/net5.0/Print_Numbers_In_Reverse_Order.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Arrays - Lab/Print Numbers In Reverse Order/Print_Numbers_In_Reverse_Order/bin/Debug/net5.0/ref/Print_Numbers_In_Reverse_Order.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Arrays - Lab/Print Numbers In Reverse Order/Print_Numbers_In_Reverse_Order/bin/Debug/net5.0/Print_Numbers_In_Reverse_Order.pdb
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Arrays - Lab/Print Numbers In Reverse Order/Print_Numbers_In_Reverse_Order/obj/Debug/net5.0/Print_Numbers_In_Reverse_Order.csproj.AssemblyReference.cache
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Arrays - Lab/Print Numbers In Reverse Order/Print_Numbers_In_Reverse_Order/obj/Debug/net5.0/Print_Numbers_In_Reverse_Order.GeneratedMSBuildEditorConfig.editorconfig
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Arrays - Lab/Print Numbers In Reverse Order/Print_Numbers_In_Reverse_Order/obj/Debug/net5.0/Print_Numbers_In_Reverse_Order.AssemblyInfoInputs.cache
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Arrays - Lab/Print Numbers In Reverse Order/Print_Numbers_In_Reverse_Order/obj/Debug/net5.0/Print_Numbers_In_Reverse_Order.AssemblyInfo.cs
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Arrays - Lab/Print Numbers In Reverse Order/Print_Numbers_In_Reverse_Order/obj/Debug/net5.0/Print_Numbers_In_Reverse_Order.csproj.CoreCompileInputs.cache
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Arrays - Lab/Print Numbers In Reverse Order/Print_Numbers_In_Reverse_Order/obj/Debug/net5.0/Print_Numbers_In_Reverse_Order.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Arrays - Lab/Print Numbers In Reverse Order/Print_Numbers_In_Reverse_Order/obj/Debug/net5.0/ref/Print_Numbers_In_Reverse_Order.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Arrays - Lab/Print Numbers In Reverse Order/Print_Numbers_In_Reverse_Order/obj/Debug/net5.0/Print_Numbers_In_Reverse_Order.pdb
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Arrays - Lab/Print Numbers In Reverse Order/Print_Numbers_In_Reverse_Order/obj/Debug/net5.0/Print_Numbers_In_Reverse_Order.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Mid - Exam/Numbers/Numbers/bin/Debug/net5.0/Numbers.deps.json
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Mid - Exam/Numbers/Numbers/bin/Debug/net5.0/Numbers.runtimeconfig.json
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Mid - Exam/Numbers/Numbers/bin/Debug/net5.0/Numbers.runtimeconfig.dev.json
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Mid - Exam/Numbers/Numbers/bin/Debug/net5.0/Numbers.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Mid - Exam/Numbers/Numbers/bin/Debug/net5.0/ref/Numbers.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Mid - Exam/Numbers/Numbers/bin/Debug/net5.0/Numbers.pdb
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Mid - Exam/Numbers/Numbers/obj/Debug/net5.0/Numbers.csproj.AssemblyReference.cache
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Mid - Exam/Numbers/Numbers/obj/Debug/net5.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Mid - Exam/Numbers/Numbers/obj/Debug/net5.0/Numbers.AssemblyInfoInputs.cache
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Mid - Exam/Numbers/Numbers/obj/Debug/net5.0/Numbers.AssemblyInfo.cs
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Mid - Exam/Numbers/Numbers/obj/Debug/net5.0/Numbers.csproj.CoreCompileInputs.cache
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Mid - Exam/Numbers/Numbers/obj/Debug/net5.0/Numbers.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Mid - Exam/Numbers/Numbers/obj/Debug/net5.0/ref/Numbers.dll
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Mid - Exam/Numbers/Numbers/obj/Debug/net5.0/Numbers.pdb
+/Users/genadipetkov/Documents/GitHub/SoftuUni-Exercises/FUNDAMENTALS/Mid - Exam/Numbers/Numbers/obj/Debug/net5.0/Numbers.genruntimeconfig.cache
